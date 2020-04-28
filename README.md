@@ -1,0 +1,2 @@
+# mybeautystorage
+GitHub Pages
